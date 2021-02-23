@@ -1,4 +1,4 @@
-@extends('layouts.default')
+@extends('layouts.default',['title'=>'About'])
 
 @section('content')
 
@@ -28,7 +28,7 @@
 
 
 		<p>
-			Feel free help to improve the <a href=""> source code </a> 
+			Feel free help to improve the <a href="https://github.com/Dieu-Merci-Kambale/laracarte-mk"> source code </a> 
 		</p>
 
 
